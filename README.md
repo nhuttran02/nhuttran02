@@ -1,5 +1,5 @@
 # 💫About Me :
-Hello! I'm  Nhut Tran - a .NET and PHP programmer. I love technology and always want to learn new things.
+Hello! I'm  Nhut Tran - a .NET programmer. I love technology and always want to learn new things.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#sadeyes2309) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nhut.tran.1708) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thnhut) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TrnHngNht4) 
