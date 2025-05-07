@@ -1,5 +1,5 @@
 # 💫About Me :
-Hello! I'm  Nhut Tran - a Fresher Ai Engineer. I love technology and always want to learn new things.
+Hello! I'm  Nhut Tran - an Ai Engineer. I love technology and always want to learn new things.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#sadeyes2309) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nhuttran.170802) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thnhut)
